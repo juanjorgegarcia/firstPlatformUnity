@@ -72,6 +72,7 @@ Gênero; 2d platform; Ação; Aventura; Sobrevivência; Pixel Art;
 Plataformas; WEBGL
 Público alvo; jogadores casuais e experientes que buscam uma fuga da realidade e um desafio em outros mundos.
 
-
+# References: 
+https://www.youtube.com/watch?v=UbPiCgCkHTE&list=PLPV2KyIb3jR42oVBU6K2DIL6Y22Ry9J1c
 
 
