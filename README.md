@@ -51,21 +51,19 @@ Fluxograma simples que mostra as telas e ou acontecimentos ao longo do jogo, bea
 
 
 ## Personagens
-O personagem principal, CQ-27, é um astronauta que foi treinado/criado para conquistar/colonizar outros planetas para a sobrevivência de sua espécie e de si mesmo. Em uma missão, CQ-27 consegue escapar desse futuro predestinado e está foragido no espaço. O astronauta procura sobreviver e achar um sentido para sua existência, seja o último qual for.Os inimigos serão extra-terrestres variados de acordo com a fase em que o player se encontra. Em cada fase o astronauta irá progredir na conquista do(s) planeta(s) e estará mais próximo de garantir sua sobrevivência.
+O personagem principal, CQ-27, é um astronauta que foi treinado/criado para conquistar/colonizar outros planetas para a sobrevivência de sua espécie e de si mesmo. Em uma missão, CQ-27 consegue escapar desse futuro predestinado e está foragido no espaço. O astronauta procura sobreviver e achar um sentido para sua existência, seja o último qual for. Os inimigos serão extra-terrestres variados de acordo com a fase em que o player se encontra. Em cada fase o astronauta irá progredir na conquista do(s) planeta(s) e estará mais próximo de garantir sua sobrevivência.
 
- 
 
 ## Cronograma e Escopo
 ### TODO:
-Ataques dos Inimigos;
-SFX;
-Limitar a quantidade de vidas do player; 
-Game Over screen;
-Menu principal;
-Implementar Fases;
-Pause;
-Feedback dano recebido para o Player e Inimigo;
-
+- [x] Ataques dos Inimigos;
+- [x] SFX;
+- [x] Limitar a quantidade de vidas do player; 
+- [x] Game Over screen;
+- [x] Menu principal;
+- [x] Implementar Fases;
+- [x] Feedback dano recebido para o Player e Inimigo;
+- [] Pause;
 
 ## Definições gerais
 Gênero; 2d platform; Ação; Aventura; Sobrevivência; Pixel Art;
@@ -74,5 +72,7 @@ Público alvo; jogadores casuais e experientes que buscam uma fuga da realidade 
 
 # References: 
 https://www.youtube.com/watch?v=UbPiCgCkHTE&list=PLPV2KyIb3jR42oVBU6K2DIL6Y22Ry9J1c
+https://www.studytonight.com/game-development-in-2D/audio-in-unity
+https://docs.unity3d.com/Manual/index.html
 
 
