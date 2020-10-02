@@ -63,7 +63,7 @@ O personagem principal, CQ-27, é um astronauta que foi treinado/criado para con
 - [x] Menu principal;
 - [x] Implementar Fases;
 - [x] Feedback dano recebido para o Player e Inimigo;
-- [] Pause;
+- [ ] Pause;
 
 ## Definições gerais
 Gênero; 2d platform; Ação; Aventura; Sobrevivência; Pixel Art;
