@@ -15,7 +15,7 @@ Jogo de plataforma, side scroller, em que o player pula sobre plataformas enquan
 
 
 ## Características (Mundo do jogo)
-Ambientação espacial, jogo possui movimentação rápida, exigindo um alto poder de reação do jogador. O jogador precisa desviar dos aliens, enquanto fica atento com as plataformas (para não cair), até conseguir dominar o planeta (plantar uma bandeira na parte final do level), quanto mais inimigos são eliminados, mais pontos são acumulados. O jogador só consegue dominar um planeta após matar x inimigos e sobreviver por um tempo y.
+Ambientação espacial, jogo possui movimentação rápida, exigindo um alto poder de reação do jogador. O jogador precisa desviar dos aliens, enquanto fica atento com as plataformas (para não cair), até conseguir dominar o planeta (sobreviver todas as waves), quanto mais inimigos são eliminados, mais pontos são acumulados.
 
 
 ## Arte
@@ -28,13 +28,13 @@ Para a trilha sonora e música penso em uma mistura de sons futurísticos (eletr
 
 
 ## Interface
-O jogo possuirá um menu inicial onde o jogador pode escolher entre começar o jogo, sair do jogo e ver os highscores, tudo isso através do mouse. O jogador, possivelmente, conseguirá interagir com o mundo, pegando power ups disponíveis no final de fases (em caixas/rochas) ou ao matar um Boss que dropará o item.
+O jogo possuirá um menu inicial onde o jogador pode escolher entre começar o jogo, sair do jogo e, possivelmente, ver os highscores, tudo isso através do mouse. O jogador, possivelmente, conseguirá interagir com o mundo, pegando power ups disponíveis no final de fases (em caixas/rochas) ou ao matar um Boss que dropará o item.
 
 
 
 
 ## Controles
-O usuário irá utilizar os comandos básicos de todo jogo de plataforma (WASD,SPACE) ou “setinhas”, para se mover. Para mirar e atirar o jogador deve utilizar o mouse e o botão esquerdo, respectivamente.
+O usuário irá utilizar os comandos básicos de todo jogo de plataforma (WASD,SPACE) ou “setinhas”, para se mover. Para mirar e atirar o jogador deve utilizar o mouse e o seu botão esquerdo, respectivamente.
 
 
 
@@ -44,7 +44,6 @@ O jogador terá que enfretar inimigos que explodem ao contato e, ao mesmo tempo,
 
 ## Fluxo do jogo 
 TO DO!!!!!  Fazer quando implementar o menu, game over screen e fases no jogo
-
 
 Fluxograma simples que mostra as telas e ou acontecimentos ao longo do jogo, beatchart
 
